@@ -3,7 +3,7 @@
 🚀 A beautifully crafted personal portfolio website to showcase skills, projects, and experience with smooth animations and elegant typography.
 
  🔗 Live Demo  
-[🚀 View My Portfolio](https://your-portfolio-link.com)
+[🚀 View My Portfolio](https://portfolio-website-kappa-navy.vercel.app/)
 
 🚀 View My Portfolio
 📌 Features
